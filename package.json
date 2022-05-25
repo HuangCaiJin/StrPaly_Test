@@ -1,0 +1,19 @@
+{
+  "name": "H-StrPlay",
+  "version": "1.0.0",
+  "description": "操作字符串类型",
+  "main": "dist/index.min.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "CaiJin Huang",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.72.1"
+  }
+}
