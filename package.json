@@ -1,8 +1,8 @@
 {
   "name": "h-strplay",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "操作字符串类型",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "files": [
     "dist"
   ],
@@ -19,5 +19,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:HuangCaiJin/StrPaly_Test.git"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
   }
 }
